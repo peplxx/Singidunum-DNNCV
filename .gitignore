@@ -1,2 +1,4 @@
 .venv/
 DNNCV*.ipynb
+data/
+.DS_Store
